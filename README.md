@@ -3,4 +3,8 @@ https://www.kaggle.com/datasets/usdot/flight-delays
 
 Created for a bootcamp.
 
-Data cleaning, visualisations, and machine learning models (Logistic Regression, Random Forest, KNN).
+
+Business problem:
+*Analyzing the predictability of flight cancellations for Clients' flight booking app.*
+
+Data cleaning, visualisations, and machine learning models (Logistic Regression, Naive Bayes).
